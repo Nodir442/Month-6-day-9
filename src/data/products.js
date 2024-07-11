@@ -1,0 +1,73 @@
+import productImg from "../assets/product1.jpg";
+export const productData = [
+  {
+    img: productImg,
+    price: 299000,
+    name: "Apple Airpods Pro simsiz quloqchin, oq rangda",
+    ordered: 1500,
+    id: 1,
+  },
+  {
+    img: productImg,
+    price: 1599999,
+    name: "Samsung Galaxy Buds Live, qora rangda",
+    ordered: 900,
+    id: 2,
+  },
+  {
+    img: productImg,
+    price: 499000,
+    name: "Sony WF-1000XM4 simsiz quloqchin, kumush rangda",
+    ordered: 750,
+    id: 3,
+  },
+  {
+    img: productImg,
+    price: 899000,
+    name: "Bose QuietComfort Earbuds, qora rangda",
+    ordered: 1200,
+    id: 4,
+  },
+  {
+    img: productImg,
+    price: 599000,
+    name: "Sennheiser Momentum True Wireless 2, oq rangda",
+    ordered: 1100,
+    id: 5,
+  },
+  {
+    img: productImg,
+    price: 199000,
+    name: "Jabra Elite 75t simsiz quloqchin, titanium rangda",
+    ordered: 850,
+    id: 6,
+  },
+  {
+    img: productImg,
+    price: 1299000,
+    name: "Apple AirPods Max, kul rangda",
+    ordered: 400,
+    id: 7,
+  },
+  {
+    img: productImg,
+    price: 349000,
+    name: "Beats Powerbeats Pro, ko'k rangda",
+    ordered: 1300,
+    id: 8,
+  },
+  {
+    img: productImg,
+    price: 279000,
+    name: "Anker Soundcore Liberty Air 2, qora rangda",
+    ordered: 700,
+    id: 9,
+  },
+  {
+    img: productImg,
+    price: 249000,
+    name: "Google Pixel Buds A-Series, oq rangda",
+    ordered: 600,
+    id: 10,
+  },
+];
